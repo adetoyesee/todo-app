@@ -1,0 +1,3 @@
+make coffee
+make the bed
+Clean the toilet
